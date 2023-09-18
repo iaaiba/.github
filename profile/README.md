@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sima-ba">
-    <img src="img/logo.png" alt="Logo" width="100" height="100">
+  <a href="https://github.com/sima-oba">
+    <img src="sima.png" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">SIMA</h3>
+  <!-- <h3 align="center">SIMA</h3> -->
 
   <p align="center">
     Sistema de Monitoramento da Inteligência Territorial e Ambiental do Oeste da Bahia (SIMA)
@@ -57,4 +57,4 @@ Any contributions you make are **greatly appreciated**.
 
 SIMA - sima.aiba@aiba.org.br - [website](https://aiba.org.br/instituto-aiba)
 
-Organização: [SIMA](https://github.com/sima-ba)
+Organização: [SIMA](https://github.com/sima-oba)
