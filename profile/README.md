@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sima-oba">
-    <img src="sima.png" alt="Logo" width="300">
+    <img src="https://github.com/sima-oba/.github/blob/main/profile/sima.png" alt="Logo" width="300">
   </a>
 
   <!-- <h3 align="center">SIMA</h3> -->
