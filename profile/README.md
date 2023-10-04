@@ -55,6 +55,6 @@ Any contributions you make are **greatly appreciated**.
 <!-- CONTACT -->
 ## Contato
 
-SIMA - sima.aiba@aiba.org.br - [website](https://aiba.org.br/instituto-aiba)
+SIMA - sima.aiba@aiba.org.br - [website](https://sima.aiba.org.br)
 
 Organização: [SIMA](https://github.com/sima-oba)
